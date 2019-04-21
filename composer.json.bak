@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"DwHelloWorld\\": "src/"}
+        "psr-4": {"dwthai\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
